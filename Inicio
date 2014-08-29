@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Business Solutions</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8" />	
+	<![endif]-->
+</head>
+
+<body>
+	<div id="header">
+	  <a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" width="221" height="104" /></a>
+	  <div id="navigation">
+		  <ul>
+				<li class="first selected"><a href="Inicio.html">Inicio</a></li>
+				<li><a href="Nuestro Origen.html">Nuestro Origen </a></li>
+				<li><a href="Sector Agropecuario.html">Sector Agropecuario</a></li>
+				<li><a href="Servicios Turísticos.html">Servicios Turísticos</a></li>
+				<li><a href="Soluciones Empresariales.html">Soluciones Empresariales</a></li>
+				<li><a href="Responsabilidad Social.html">Responsabilidad Social</a></li>
+				<li><a href="Contacto.html">Contacto</a></li>
+		</ul>
+	  </div>
+		
+</div> <!-- /#header -->
+	<div id="adbox">
+	  <div class="body">
+			<div class="images">
+			  <p><img src="images/campos-sembrados.jpg" alt="Img" width="414" height="260" class="preview" /></p>
+				<p><img src="images/aberdeen angus245.jpg" alt="Img" height="125" width="180" /></p>
+				<p>&nbsp;</p>
+				<p><img src="images/45d869cc37c5fcc47c9ab14913c03b68.jpg" width="180" height="138"  alt=""/></p>
+			</div>
+			<div class="details">
+				<p>
+					<span>
+						Este sitio se encuentra bajo construcción.</span>
+				Ud. está ubicado en el inicio de nuestro sitio web empresarial. Puede experimentar dificultades técnicas, estamos trabajando para brindarle una mejor comunicación acerca de nuestra asociacion. </p>
+				<p>&nbsp;</p>
+				<p>Disculpe las molestias ocasionadas. Agradecemos su visita.</p>
+				<p>&nbsp;</p>
+				<p>Staff de WindFarm S.R.L.</p>
+			</div>
+		</div>
+	</div> <!-- /#adbox -->
+	<div id="contents">
+		<div class="body"></div>
+	</div> <!-- /#contents --><!-- /#footer -->
+</body>
+</html>
