@@ -11,33 +11,24 @@
 </head>
 
 <body>
-	<div id="header">
-		<a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" width="221" height="104" /></a>
-		<div id="navigation">
-			<ul>
-				<li><a href="Inicio.html">Inicio </a></li>
-				<li><a href="Nuestro Origen.html">Nuestro Origen </a></li>
-				<li><a href="Sector Agropecuario.html">Sector Agropecuario</a></li>
-				<li class="fourth selected"><a href="Servicios%20Tur%C3%ADsticos.html">Servicios Turísticos</a></li>
-				<li><a href="Soluciones Empresariales.html">Soluciones Empresariales</a></li>
-				<li><a href="Responsabilidad Social.html">Responsabilidad Social</a></li>
-				<li><a href="Contacto.html">Contacto</a></li>
-			</ul>
-		</div>
-	</div> <!-- /#header -->
+<div id="header"> <a href="index.html" id="logo"><img src="images/logo.jpg" alt="LOGO" width="221" height="104" /></a>
+  <div id="navigation">
+	    <ul>
+	      <li><a href="Inicio.html">Inicio </a></li>
+	      <li><a href="Nuestro Origen.html">Nuestro Origen </a></li>
+	      <li><a href="Sector Agropecuario.html">Sector Agropecuario</a></li>
+	      <li class="fourth selected"><a href="Servicios%20Tur%C3%ADsticos.html">Servicios Turísticos</a></li>
+	      <li><a href="Soluciones Empresariales.html">Soluciones Empresariales</a></li>
+	      <li><a href="Responsabilidad Social.html">Responsabilidad Social</a></li>
+	      <li><a href="Contacto.html">Contacto</a></li>
+        </ul>
+  </div>
+</div>
 	<div id="contents">
 		<div class="background">
-			<div id="solutions">
-			  <p>Windfarm ofrece servicios de alojamiento  temporario en la Ciudad de Buenos Aires, para lo cual cuenta con departamentos totalmente  equipados en los barrios de Palermo,  Recoleta y Las Cañitas (Belgrano).<br>
-			    Las unidades - principalmente estudios - están  ubicadas en modernos edificios, se ofrecen por estadías mínimas de tres días y  cuentan con todas las comodidades necesarias para hacer placenteras las estadías  de corto y mediano plazo. <br>
-			    Los inmuebles han sido decorados y  ambientados por especialistas, y cuentan con televisores de pantalla plana,  sommiers de primera calidad que pueden configurarse para modalidades twin o  matrimonial, blanquería  con recambio,  horno  a microondas y a gas o  eléctricos, cocina, vajilla, heladera,  internet ilimitada, wifi, teléfono con llamadas urbanas gratis, caja de  seguridad, baños completos con bañera y bidet, secador de pelo, tostadora,  exprimidor eléctrico de jugos, cafetera y una gran cantidad de detalles que  harán su estadía muy placentera.<br>
-			    Recorra nuestros departamentos y su  equipamiento, consulte disponibilidad y conozca las tarifas.<br>
-		      Como complemento para su viaje, podemos brindarle  servicios de transporte al aeropuerto, paseos náuticos en el Río de la Plata,  shows de tango o estadías en establecimientos rurales.</p>
-			  <p>insertar imagen de dptos.</p>
-			  <p>mismo texto en ingles.</p>
-			  <p>&nbsp;</p>
-          </div>
-		</div>
-	</div> <!-- /#contents --><!-- /#footer -->
-</body>
-</html>
+			<div id="support">
+			  <p>escribir texto en ingles y español</p>
+			  <p>insertar imagenes relacionadas</p>
+			  <p>sobreescribir codigo a soluciones empresariales.</p>
+			</div>
+</div></div></body></html>
