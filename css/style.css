@@ -104,47 +104,47 @@ img {
 	padding: 0;
 }
 
-/** Adbox **/
-#adbox {
+/** informacionDePaginaDeInicio **/
+#informacionDePaginaDeInicio {
 	background-color: #ffffff;
 	height: 340px;
 	padding: 20px 0 0;
 }
-#adbox p {
+#informacionDePaginaDeInicio p {
 	margin: 0;
 }
-#adbox .body {
+#informacionDePaginaDeInicio .body {
 	width: 960px;
 	margin: 0 auto 0;
 }
-#adbox div.images {
+#informacionDePaginaDeInicio div.images {
 	float: right;
 	display: inline-block;
 	height: 350px;
 	width: 600px;
 	overflow: hidden;
 }
-#adbox div.images img.preview {
+#informacionDePaginaDeInicio div.images img.preview {
 	float: left;
 	margin-right: 2px;
 }
-#adbox div.images img.last {
+#informacionDePaginaDeInicio div.images img.last {
 	position: relative;
 	top: -2px;
 }
-#adbox .details {
+#informacionDePaginaDeInicio .details {
 	color: #2f2f2f;
 	height: 200px;
 	width: 200px;
 	padding: 40px 20px 40px 10px;
 }
-#adbox .details p {
+#informacionDePaginaDeInicio .details p {
 	color: #646c6f;
 	font-size: 14px;
 	line-height: 20px;
 	text-align: justify;
 }
-#adbox .details p span {
+#informacionDePaginaDeInicio .details p span {
 	color: #073f5a;
 	display: block;
 	font-size: 16px;
@@ -152,18 +152,18 @@ img {
 	padding: 0 0 20px;
 	text-align: center;
 }
-#adbox .details p span a {
+#informacionDePaginaDeInicio .details p span a {
 	color: #073f5a;
 	font-weight: bold;
 	text-decoration: none;
 }
-#adbox .footer {
+#informacionDePaginaDeInicio .footer {
 	height: 46px;
 	width: 960px;
 	margin: 0 auto;
 	position: relative;
 }
-#adbox div.footer ul {
+#informacionDePaginaDeInicio div.footer ul {
 	background-color: #dcdcdc;
 	display: inline-block;
 	width: 960px;
@@ -175,35 +175,35 @@ img {
 	bottom: -230px;
 	left: 38px;
 }
-#adbox div.footer ul li {
+#informacionDePaginaDeInicio div.footer ul li {
 	float: left;
 	width: 280px;
 	padding: 20px 20px 18px;
 }
-#adbox div.footer ul li img {
+#informacionDePaginaDeInicio div.footer ul li img {
 	float: left;
 	margin-right: 10px;
 }
-#adbox div.footer ul li p {
+#informacionDePaginaDeInicio div.footer ul li p {
 	color: #363636;
 	font-size: 14px;
 	height: 88px;
 	line-height: 20px;
 	margin: 0;
 }
-#adbox div.footer ul li p a {
+#informacionDePaginaDeInicio div.footer ul li p a {
 	color: #010101;
 	font-weight: bold;
 	text-decoration: none;
 }
-#adbox div.footer ul li.selected {
+#informacionDePaginaDeInicio div.footer ul li.selected {
 	background-color: #e91f4;
 	border-radius: 3px;
 }
-#adbox div.footer ul li.selected p, #adbox div.footer ul li.selected p a {
+#informacionDePaginaDeInicio div.footer ul li.selected p, #informacionDePaginaDeInicio div.footer ul li.selected p a {
 	color: #5c6164;
 }
-#adbox div.footer span.bottom-shadow {
+#informacionDePaginaDeInicio div.footer span.bottom-shadow {
 	background: url(../images/bottom-shadow.gif) no-repeat left top;
 	display: block;
 	height: 20px;
