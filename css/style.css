@@ -1,19 +1,22 @@
-/* Website template by freewebsitetemplates.com */
 html {
 	font-family: Calibri, Impact, sans-serif;
 }
 body {
-	background-color: #edd032; 
+	background-color: #b3aa58; 
 	margin: 0;
 }
 img {
 	border: 700;
+	margin-right: 0;
 }
 
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	width: 960px;
-	margin: 0 auto;
+	width: 1010px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: 50px;
+	margin-bottom: 0;
 	position: relative;
 	padding-bottom: 0px;
 	padding-left: 0px;
@@ -24,11 +27,15 @@ img {
 /** Logo **/
 #logo {
 	display: block;
-	padding: 0 0 35px 20px;
+	width: 1010px;
+	background-color: #CF1E2E;
 }
 
 /** Navigation **/
 #navigation {
+	width: 1010px;
+	background-color: #FFC291;
+	color: #8B8B8B;
 
 }
 #navigation ul {
@@ -52,7 +59,11 @@ img {
 	
 }
 #navigation li.selected {
-	background-color: #99CC33;
+	background-color: #CF2930;
+	color: #B2B2B2;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-weight: normal;
+	text-align: right;
 }
 #navigation a {
 	color: #092f44;
@@ -62,7 +73,10 @@ img {
 	text-shadow: 1px 1px 0 #eaeaea;
 }
 #navigation a:hover {
-	color: #0a2d43;
+	color: #C4C6C7;
+	font-weight: normal;
+	font-family: Arial
+	font-size: 14px;
 }
 
 /** Searchbar **/
@@ -109,6 +123,8 @@ img {
 	background-color: #ffffff;
 	height: 340px;
 	padding: 20px 0 0;
+	margin-left: 50px;
+	width: 1010px;
 }
 #informacionDePaginaDeInicio p {
 	margin: 0;
@@ -120,13 +136,14 @@ img {
 #informacionDePaginaDeInicio div.images {
 	float: right;
 	display: inline-block;
-	height: 350px;
+	height: 300px;
 	width: 600px;
 	overflow: hidden;
 }
 #informacionDePaginaDeInicio div.images img.preview {
 	float: left;
 	margin-right: 2px;
+	margin-left: 8px;
 }
 #informacionDePaginaDeInicio div.images img.last {
 	position: relative;
@@ -143,9 +160,10 @@ img {
 	font-size: 14px;
 	line-height: 20px;
 	text-align: justify;
+	font-family: Calibri, Impact, sans-serif;
 }
 #informacionDePaginaDeInicio .details p span {
-	color: #073f5a;
+	color: #C51E21;
 	display: block;
 	font-size: 16px;
 	line-height: 20px;
@@ -214,8 +232,19 @@ img {
 
 /*------------------------------ CONTENTS ------------------------------*/
 #contents {
-	background: url(../images/bg-content.gif) repeat;
+	background-repeat: repeat;
 	padding: 0px 0 20px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: #636363;
+	background-color: #FFFFFF;
+	width: 1010px;
+	height: 150px;
+	list-style-position: inside;
+	font-family: Calibri light
 }
 #contents div.body {
 	color: #fdfffa;
