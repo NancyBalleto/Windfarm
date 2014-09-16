@@ -1,5 +1,5 @@
 html {
-	font-family: Calibri, Impact, sans-serif;
+	font-family: Calibri light "Calibri Light"
 }
 body {
 	background-color: #b3aa58; 
@@ -31,6 +31,7 @@ img {
 	background-color: #CF1E2E;
 	height: 222px;
 	margin-left: 50px;
+	font-family: "Calibri Light";
 }
 
 /** Navigation **/
@@ -39,6 +40,7 @@ img {
 	background-color: #FFC291;
 	color: #8B8B8B;
 	margin-left: 50px;
+	font-family: "Calibri Light";
 
 }
 #navigation ul {
@@ -64,7 +66,7 @@ img {
 #navigation li.selected {
 	background-color: #CF2930;
 	color: #B2B2B2;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: "Calibri Light";
 	font-weight: normal;
 	text-align: right;
 }
@@ -124,10 +126,12 @@ img {
 /** informacionDePaginaDeInicio **/
 #informacionDePaginaDeInicio {
 	background-color: #ffffff;
-	height: 340px;
+	height: 350px;
 	padding: 20px 0 0;
 	margin-left: 50px;
 	width: 1025px;
+	color: #000000;
+	font-family: "Calibri Light";
 }
 #informacionDePaginaDeInicio p {
 	margin: 0;
@@ -135,6 +139,8 @@ img {
 #informacionDePaginaDeInicio .body {
 	width: 960px;
 	margin: 0 auto 0;
+	color: #000000;
+	font-family: "Calibri Light";
 }
 #informacionDePaginaDeInicio div.images {
 	float: right;
@@ -157,21 +163,23 @@ img {
 	height: 200px;
 	width: 200px;
 	padding: 40px 20px 40px 10px;
+	font-family: "Calibri Light";
 }
 #informacionDePaginaDeInicio .details p {
 	color: #646c6f;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 20px;
 	text-align: justify;
-	font-family: Calibri, Impact, sans-serif;
+	font-family: "Calibri Light";
 }
 #informacionDePaginaDeInicio .details p span {
 	color: #C51E21;
 	display: block;
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 20px;
 	padding: 0 0 20px;
 	text-align: center;
+	font-family: "Calibri Light";
 }
 #informacionDePaginaDeInicio .details p span a {
 	color: #073f5a;
@@ -236,23 +244,35 @@ img {
 /*------------------------------ CONTENTS ------------------------------*/
 #contents {
 	background-repeat: repeat;
-	padding: 0px 0 20px;
+	padding-top: 20px;
+	padding-right: auto;
+	padding-left: 20px;
+	padding-bottom: 20px;
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
-	margin-top: 0;
+	margin-top: 50px;
 	margin-left: 50px;
 	color: #636363;
 	background-color: #FFFFFF;
 	width: 1025px;
-	height: 700px;
+	height: 650px;
 	list-style-position: inside;
 	font-family: Calibri light
 }
 #contents div.body {
-	color: #fdfffa;
+	color: #646c6f;
 	width: 960px;
-	margin: 0 auto 20px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	font-family: "Calibri Light";
+	font-style: normal;
+	font-variant: normal;
+	text-align: justify;
+	height: 170px;
+	margin-left: 20px;
+	padding-left: 20px;
 }
 
 /** MAIN **/
@@ -363,20 +383,27 @@ img {
 	width: 960px;
 	border-radius: 4px 3px 3px 4px;
 	margin: 0 auto;
-	padding: 20px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
 	text-align: left;
+	font-weight: normal;
+	height: 600px;
 }
 #contents div.background h3 {
-	color: #0e2934;
+	color: #717366;
 	margin: 20px 0;
 	text-transform: uppercase;
 }
 #contents div.background p {
-	color: #646c6f;
+	color: #717366;
 	font-size: 18px;
 	margin: 0;
 	padding: 0 0 20px;
 	text-align: justify;
+	font-style: normal;
+	font-weight: normal;
 }
 #contents div.background p a {
 	color: #0e2934;
