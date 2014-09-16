@@ -27,15 +27,18 @@ img {
 /** Logo **/
 #logo {
 	display: block;
-	width: 1010px;
+	width: 1025px;
 	background-color: #CF1E2E;
+	height: 222px;
+	margin-left: 50px;
 }
 
 /** Navigation **/
 #navigation {
-	width: 1010px;
+	width: 1025px;
 	background-color: #FFC291;
 	color: #8B8B8B;
+	margin-left: 50px;
 
 }
 #navigation ul {
@@ -124,7 +127,7 @@ img {
 	height: 340px;
 	padding: 20px 0 0;
 	margin-left: 50px;
-	width: 1010px;
+	width: 1025px;
 }
 #informacionDePaginaDeInicio p {
 	margin: 0;
@@ -237,12 +240,12 @@ img {
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
-	margin-top: 50px;
+	margin-top: 0;
 	margin-left: 50px;
 	color: #636363;
 	background-color: #FFFFFF;
-	width: 1010px;
-	height: 150px;
+	width: 1025px;
+	height: 700px;
 	list-style-position: inside;
 	font-family: Calibri light
 }
@@ -357,7 +360,6 @@ img {
 #contents .background {
 	background-color: #ffffff;
 	line-height: 20px;
-	min-height: 500px;
 	width: 960px;
 	border-radius: 4px 3px 3px 4px;
 	margin: 0 auto;
