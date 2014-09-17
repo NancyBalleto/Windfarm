@@ -44,7 +44,7 @@ img {
 
 }
 #navigation ul {
-	background: url(../images/bg-menu.gif) repeat-x;
+	background:
 	display: inline-block;
 	height: 40px;
 	width: 1088px;
@@ -71,16 +71,16 @@ img {
 	text-align: right;
 }
 #navigation a {
-	color: #092f44;
-	font-weight: bold;
+	color: #FFFFFF;
+	font-weight: normal;
 	padding: 0 10px;
 	text-decoration: none;
-	text-shadow: 1px 1px 0 #eaeaea;
+	text-shadow: none;
 }
 #navigation a:hover {
 	color: #C4C6C7;
 	font-weight: normal;
-	font-family: Arial
+	font-family: Calibri light
 	font-size: 14px;
 }
 
