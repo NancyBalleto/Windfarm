@@ -256,7 +256,7 @@ img {
 	color: #636363;
 	background-color: #FFFFFF;
 	width: 1025px;
-	height: 650px;
+	height: 700px;
 	list-style-position: inside;
 	font-family: Calibri light
 }
@@ -271,7 +271,7 @@ img {
 	font-variant: normal;
 	text-align: justify;
 	height: 170px;
-	margin-left: 20px;
+	margin-left: 12px;
 	padding-left: 20px;
 }
 
@@ -389,7 +389,7 @@ img {
 	padding-bottom: 20px;
 	text-align: left;
 	font-weight: normal;
-	height: 600px;
+	height: 350px;
 }
 #contents div.background h3 {
 	color: #717366;
