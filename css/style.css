@@ -1,6 +1,3 @@
-html {
-	font-family: Calibri light "Calibri Light"
-}
 body {
 	background-color: #b3aa58; 
 	margin: 0;
@@ -9,7 +6,12 @@ img {
 	border: 700;
 	margin-right: 0;
 }
+@font-face {
 
+font-family: 'Calibri Light';
+    src: url(../recursos/otros/Calibril.ttf);
+
+}
 /*------------------------------ HEADER ------------------------------*/
 #header {
 	width: 1010px;
