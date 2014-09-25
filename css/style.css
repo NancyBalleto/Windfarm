@@ -152,6 +152,7 @@ img {
 	margin: 0 auto 0;
 	color: #000000;
 	font-family: "Calibri Light";
+	height: 325px;
 }
 #informacionDePaginaDeInicio div.images {
 	float: right;
@@ -267,7 +268,7 @@ img {
 	color: #636363;
 	background-color: #FFFFFF;
 	width: 1025px;
-	height: 800px;
+	height: 200px;
 	list-style-position: inside;
 	font-family: Calibri light
 }
@@ -400,7 +401,7 @@ img {
 	padding-bottom: 20px;
 	text-align: left;
 	font-weight: normal;
-	height: 500px;
+	height: 200px;
 }
 #contents div.background h3 {
 	color: #717366;
