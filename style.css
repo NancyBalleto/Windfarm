@@ -51,6 +51,7 @@ h3 {
 p, ul, ol {
 	margin-top: 1.5em;
 	line-height: 190%;
+	text-align: justify;
 }
 
 ul, ol {
