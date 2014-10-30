@@ -52,6 +52,7 @@ p, ul, ol {
 	margin-top: 1.5em;
 	line-height: 190%;
 	text-align: justify;
+	padding-left: 0px;
 }
 
 ul, ol {
