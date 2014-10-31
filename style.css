@@ -92,8 +92,8 @@ hr {
 }
 
 #header {
-	width: 960px;
-	height: 206px;
+	width: 100%;
+	height: 20%;
 	margin: 0 auto;
 	background: url(images/img02.jpg) no-repeat top left;
 }
@@ -101,8 +101,8 @@ hr {
 /* Logo */
 
 #logo {
-	width: 870px;
-	height: 152px;
+	width: 100%;
+	height: 150;
 	margin-bottom: 0px;
 	margin-left: 25px;
 	margin-right: 75px;
